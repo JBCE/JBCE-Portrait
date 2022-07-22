@@ -55,7 +55,7 @@
 		width:99%; 
 		height:600px; 
 		border: 10px solid black; 
-		background-image: url('images/coverphotos.JPG'); 
+		background-image: url('images/coverphotos.jpg'); 
 		background-repeat: no-repeat;
 		background-size: cover; 
 		}	
@@ -495,7 +495,7 @@ section label{
 	.coverpic{
 		width:100%; 
 		height:700px; 
-		background-image: url('images/about cover.PNG'); 
+		background-image: url('images/about cover.png'); 
 		background-repeat: no-repeat;
 		background-size: cover; 
 		}	
